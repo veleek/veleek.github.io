@@ -1,6 +1,6 @@
 ---
-name: Dominion Picker
 title: Dominion Picker
+layout: post
 tagline: A Dominion card set randomizer for Windows.
 ---
 
