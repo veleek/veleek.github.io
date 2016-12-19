@@ -1,3 +1,6 @@
+name: Dominion Picker
+tagline: A Dominion card set randomizer for Windows.
+
 # Dominion Picker
 
 Dominion Picker is a card set randomizer for the [Dominion deck building card game](http://wiki.dominionstrategy.com/index.php/Dominion).  Dominion Picker provides a quick and easy system for selecting randomized sets of [Kingdom cards](http://wiki.dominionstrategy.com/index.php/Kingdom) with a simple flexible suite of options.
