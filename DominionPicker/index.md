@@ -1,5 +1,6 @@
 ---
 title: Dominion Picker
+description: A card set randomizer for Windows.
 ---
 
 # Dominion Picker
