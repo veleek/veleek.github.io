@@ -12,5 +12,5 @@ I'm just doing Easy Mode (each title read can check off any number of items), bu
 
 # Progress
 
-Done? {{ site:done }}
+Done? {{ site.done }}
 
