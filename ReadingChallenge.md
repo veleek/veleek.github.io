@@ -16,19 +16,22 @@ I'm just doing Easy Mode (each title read can check off any number of items), bu
 {% for category in categories %}
 ## {{ category.name }}
 {% for challenge in category.items %}
-{{challenge.id}}\. {{ challenge.name }}
 
 {% assign matchingBooks = site.data.books | where_exp:"item","item.Ids contains challenge.id" %}
+{% assign s = matchingBooks | size > 0 %}
+
+{% if matchingBooks.size > 0 %}
+<!--{% increment complete %}-->
+* [X] {{challenge.id}}\. {{ challenge.name }}
+{% else %}
+* [_] {{challenge.id}}\. {{ challenge.name }}
+{% endif %}
+
 {% for matchingBook in matchingBooks %}
 <ul>
   <li><a href="https://www.goodreads.com/book/show/{{matchingBook.GoodReadsId}}">{{matchingBook.Title}}</a></li>
 </ul>
 {% endfor %}
-
-{% assign s = matchingBooks | size %}
-{% if matchingBooks.size > 0 %}
-<!--{% increment complete %}-->
-{% endif %}
 
 {% endfor %}
 {% endfor %}
