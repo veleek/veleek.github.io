@@ -1,6 +1,7 @@
 ---
 title: Dominion Picker
 description: A card set randomizer for Windows.
+hideRepoLink: true
 ---
 
 # Dominion Picker
@@ -18,3 +19,5 @@ Dominion Picker is available for Windows and Windows Phone on [the Microsoft App
 ## v3.0
 
 ## v3.1
+
+<pre>{{ site | inspect }}</pre>

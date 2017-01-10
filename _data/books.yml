@@ -1,6 +1,6 @@
 - Title: Fifty Shades of Grey
   GoodReadsId: 10818853
-  Completed: 
+  Completed: true
   Ids: 
     - 16
     - 19
@@ -17,4 +17,5 @@
   
 - Title: Catching Fire
   Ids:
+  Completed: false
   Note: Book 2 of 3 in the Hunger Games series

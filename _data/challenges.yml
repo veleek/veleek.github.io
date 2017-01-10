@@ -45,7 +45,7 @@
     name: Read a book from the Horror genre
   - id: 16
     category: Genre
-    name: Read a Romance and/or Erotica book - 50 Shades of Grey
+    name: Read a Romance and/or Erotica book
   - id: 17
     category: Publishing
     name: Read a book originally published in a language you do not know
@@ -54,7 +54,7 @@
     name: Read a book written before 1950
   - id: 19
     category: Publishing
-    name: Read a book written after 1949 - 50 Shades of Grey
+    name: Read a book written after 1949
   - id: 20
     category: Publishing
     name: Read a book published this year
@@ -66,16 +66,16 @@
     name: Read an indie book, where the publisher is a small or niche house and not one of the top 6 publishers
   - id: 23
     category: Publishing
-    name: Read a book published under one of the Big 6 publishing houses - 50 Shades of Grey, Vintage Books, Penguin Random House
+    name: Read a book published under one of the Big 6 publishing houses
   - id: 24
     category: Publishing
     name: Read a debut book from this year
   - id: 25
     category: Popularity and Notoriety
-    name: Read a book that was turned into a movie - 50 Shades of Grey
+    name: Read a book that was turned into a movie
   - id: 26
     category: Popularity and Notoriety
-    name: Read a popular book, with at least 1 million ratings on any one website - 50 Shades of Grey
+    name: Read a popular book, with at least 1 million ratings on any one website
   - id: 27
     category: Popularity and Notoriety
     name: Read an unknown book, with no more than 100 ratings on any one website
@@ -96,10 +96,10 @@
     name: Read a book written by a man
   - id: 33
     category: Author
-    name: Read a book written by a woman - 50 Shades of Grey
+    name: Read a book written by a woman
   - id: 34
     category: Characters or setting
-    name: Read a book with a contemporary setting - 50 Shades of Grey
+    name: Read a book with a contemporary setting
   - id: 35
     category: Characters or setting
     name: Read a book that features animals
@@ -114,7 +114,7 @@
     name: Read a book by or featuring a character that is LGBT
   - id: 39
     category: Characters or setting
-    name: Read a book set in your country - 50 Shades of Grey
+    name: Read a book set in your country
   - id: 40
     category: Characters or setting
     name: Read a book not set in your country, but exists today
@@ -123,7 +123,7 @@
     name: Read a short story, one with less than 5,000 words
   - id: 42
     category: Book features
-    name: Read a short book, one between 5,000 and 100,000 words - 50 Shades of Grey
+    name: Read a short book, one between 5,000 and 100,000 words
   - id: 43
     category: Book features
     name: Read a long book, one between 100,000 and 250,000 words
@@ -132,7 +132,7 @@
     name: Read an epic book, one with over 250,000 words
   - id: 45
     category: Book features
-    name: Read the first book in a series - 50 Shades of Grey
+    name: Read the first book in a series
   - id: 46
     category: Book features
     name: Finish a series
@@ -141,7 +141,7 @@
     name: Listen to an Audiobook
   - id: 48
     category: Book features
-    name: Read a book on paper - 50 Shades of Grey
+    name: Read a book on paper
   - id: 49
     category: Book features
     name: Read a book with pictures in it
