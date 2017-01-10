@@ -1,0 +1,160 @@
+- id: 
+  name: 
+  category:
+  
+- id:1
+  category: Genre
+  name: Read a book in the Science Fiction genre
+- id:2
+  category: Genre
+  name: Read a book in the Fantasy genre
+- id:3
+  category: Genre
+  name: Read a book labelled as Young Adult
+- id:4
+  category: Genre
+  name: Read a nonfiction book
+- id:5
+  category: Genre
+  name: Read a History book, fiction or nonfiction
+- id:6
+  category: Genre
+  name: Read a Biography, whether normal, Auto, or Memoir.
+- id:7
+  category: Genre
+  name: Read a book about Politics and/or Religion
+- id:8
+  category: Genre
+  name: Read a book in the Thriller or Suspense genre
+- id:9
+  category: Genre
+  name: Read a Mystery book
+- id:10
+  category: Genre
+  name: Read a book labelled as Dystopian
+- id:11
+  category: Genre
+  name: Read a book in the Paranormal genre
+- id:12
+  category: Genre
+  name: Read a book labelled as a Satire or Allegory
+- id:13
+  category: Genre
+  name: Read a book from the Self-Help, Health, Travel, or Guide category
+- id:14
+  category: Genre
+  name: Read a collection of poetry
+- id:15
+  category: Genre
+  name: Read a book from the Horror genre
+- id:16
+  category: Genre
+  name: Read a Romance and/or Erotica book - 50 Shades of Grey
+- id:17
+  category: Publishing
+  name: Read a book originally published in a language you do not know
+- id:18
+  category: Publishing
+  name: Read a book written before 1950
+- id:19
+  category: Publishing
+  name: Read a book written after 1949 - 50 Shades of Grey
+- id:20
+  category: Publishing
+  name: Read a book published this year
+- id:21
+  category: Publishing
+  name: Read a self-published book
+- id:22
+  category: Publishing
+  name: Read an indie book, where the publisher is a small or niche house and not one of the top 6 publishers
+- id:23
+  category: Publishing
+  name: Read a book published under one of the Big 6 publishing houses - 50 Shades of Grey, Vintage Books, Penguin Random House
+- id:24
+  category: Publishing
+  name: Read a debut book from this year
+- id:25
+  category: Popularity and Notoriety
+  name: Read a book that was turned into a movie - 50 Shades of Grey
+- id:26
+  category: Popularity and Notoriety
+  name: Read a popular book, with at least 1 million ratings on any one website - 50 Shades of Grey
+- id:27
+  category: Popularity and Notoriety
+  name: Read an unknown book, with no more than 100 ratings on any one website
+- id:28
+  category: Popularity and Notoriety
+  name: Read a book that won a literary award
+- id:29
+  category: Popularity and Notoriety
+  name: Read a book labelled as a Best-Seller from this year
+- id:30
+  category: Popularity and Notoriety
+  name: Read a book that was, or currently is, banned by a government
+- id:31
+  category: Author
+  name: Read a book by an author born in the same country as you
+- id:32
+  category: Author
+  name: Read a book written by a man
+- id:33
+  category: Author
+  name: Read a book written by a woman - 50 Shades of Grey
+- id:34
+  category: Characters or setting
+  name: Read a book with a contemporary setting - 50 Shades of Grey
+- id:35
+  category: Characters or setting
+  name: Read a book that features animals
+- id:36
+  category: Characters or setting
+  name: Read a book where the main character goes on a journey
+- id:37
+  category: Characters or setting
+  name: Read a book where a stranger comes to town
+- id:38
+  category: Characters or setting
+  name: Read a book by or featuring a character that is LGBT
+- id:39
+  category: Characters or setting
+  name: Read a book set in your country - 50 Shades of Grey
+- id:40
+  category: Characters or setting
+  name: Read a book not set in your country, but exists today
+- id:41
+  category: Book features
+  name: Read a short story, one with less than 5,000 words
+- id:42
+  category: Book features
+  name: Read a short book, one between 5,000 and 100,000 words - 50 Shades of Grey
+- id:43
+  category: Book features
+  name: Read a long book, one between 100,000 and 250,000 words
+- id:44
+  category: Book features
+  name: Read an epic book, one with over 250,000 words
+- id:45
+  category: Book features
+  name: Read the first book in a series - 50 Shades of Grey
+- id:46
+  category: Book features
+  name: Finish a series
+- id:47
+  category: Book features
+  name: Listen to an Audiobook
+- id:48
+  category: Book features
+  name: Read a book on paper - 50 Shades of Grey
+- id:49
+  category: Book features
+  name: Read a book with pictures in it
+- id:50
+  category: Other
+  name: Read a book for the second time
+- id:51
+  category: Other
+  name: Read a book that’s been on your to read-list for more than a year
+- id:52
+  category: Other
+  name: Combining all the letters of all the titles of all the books you’ve read this year, complete the Alphabet
