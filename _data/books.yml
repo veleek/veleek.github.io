@@ -13,9 +13,38 @@
     - 42
     - 45
     - 48
+    - 52
   Note: Publisher is Penguin
   
 - Title: Catching Fire
+  GoodReadsId: 6148028
+  Completed: true
   Ids:
+    - 10
+    - 19
+    - 23
+    - 25
+    - 26
+    - 33
+    - 48
+    - 52
+  Note: Book two in the Hunger Games series
+  
+- Title: Mocking Jay
+  GoodReadsId: 7260188
   Completed: false
-  Note: Book 2 of 3 in the Hunger Games series
+  Ids:
+  Note: Book two in the Hunger Games series
+  
+- Title: Are we smart enough to know how smart animals are?
+  GoodReadsId: 2653022
+  Completed: false
+  Ids:
+  Note:
+  
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note:
+  
