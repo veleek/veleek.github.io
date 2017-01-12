@@ -1,6 +1,7 @@
 # Progress
 
-<!--{% increment complete %}-->
+Complete: {{ complete }}
+
 {% assign categories = site.data.challenges | group_by:"category" %}
 {% for category in categories %}
 ## {{ category.name }}
