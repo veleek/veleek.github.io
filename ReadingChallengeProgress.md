@@ -48,6 +48,6 @@
 Completed {{ complete }} / 52 challenges.
 
 ## Completed Books
-{% for book in books % }
+{% for book in books %}
 * **{{book.Title}}** {{book.Note}}
 {% endfor %}
