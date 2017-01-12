@@ -11,4 +11,6 @@ description: Stuff
 
 # Personal 
 
-* [2017 Reading Challenge](ReadingChallenge) - Tracking my reading challenge progress for the year while learning Jekyll, Liquid, and GitHub pages at the same time.
+## 2017 Reading Challenge
+* [Ben's Progress](ReadingChallenge) - Tracking my reading challenge progress for the year while learning Jekyll, Liquid, and GitHub pages at the same time.
+* [Katie's Progress](katie-reading-challenge) - Also see Katie's progress.
