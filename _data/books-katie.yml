@@ -1,7 +1,10 @@
 - Title: Is Everyone Hanging Out Without Me?
   GoodReadsId: 10335308
   Completed: true
-  Ids: 6, 19, 33
+  Ids:
+    - 6
+    - 19
+    - 33
   Note:
   
 - Title:
