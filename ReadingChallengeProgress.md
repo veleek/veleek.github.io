@@ -2,6 +2,7 @@
 
 Complete: {{ complete }}
 
+{% assign challengesComplete = 0 %}
 {% assign categories = site.data.challenges | group_by:"category" %}
 {% for category in categories %}
 ## {{ category.name }}
@@ -13,7 +14,7 @@ Complete: {{ complete }}
 {% assign matchingBooks = books | where_exp:"item","item.Ids contains challenge.id" %}
 
 {% if matchingBooks.size > 0 %}
-<!--{% increment complete %}-->
+{% assign challengesComplete = challengesComplete | plus: 1 %}
 <input type="checkbox" checked="" disabled="" /> {{ challenge.name }}
 {% else %}
 <input type="checkbox" disabled="" /> {{ challenge.name }}
@@ -46,9 +47,9 @@ Complete: {{ complete }}
 </ol>
 {% endfor %}
 
-Completed {{ complete }} / 52 challenges.
+Completed {{ challengesComplete }} / 52 challenges.
 
 ## Completed Books
 {% for book in books %}
-* **{{book.Title}}** {{book.Note}}
+* **{{book.Title}}** {% if book.Note %} - {{book.Note}} {% endif %}
 {% endfor %}
