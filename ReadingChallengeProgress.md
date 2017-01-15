@@ -50,6 +50,8 @@ Complete: {{ complete }}
 Completed {{ challengesComplete }} / 52 challenges.
 
 ## Completed Books
-{% for book in books %}
-* **{{book.Title}}** {% if book.Note %} - {{book.Note}} {% endif %}
+{% for book in include.books %}
+{% if book.Title %}
+* **{{book.Title}}** {% unless book.Completed %} *(In Progress)* {% endunless %} {% if book.Note %} - {{book.Note}} {% endif %}
+{% endif %}
 {% endfor %}
