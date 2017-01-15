@@ -22,7 +22,7 @@ Complete: {{ complete }}
 
 <ul>
 {% for matchingBook in matchingBooks %}
-  <li><a href="https://www.goodreads.com/book/show/{{matchingBook.GoodReadsId}}">{{matchingBook.Title}}</a></li>
+  <li><a href="https://www.goodreads.com/{%if matchingBook.GoodReadsId%}book/show/{{matchingBook.GoodReadsId}}{%else%}search?q={{matchingBook.Title | replace: " ","+" | uriescape}}{%endif%}">{{matchingBook.Title}}</a></li>
 {% endfor %}
 {% if challenge.id == 52 %}
   {% assign letters= "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" | split:" " %}
