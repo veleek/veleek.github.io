@@ -18,4 +18,4 @@ This page is testing using [liquid `increment` variables](https://help.shopify.c
 * {% increment incrementVariable %}
 * Increment Variable After: {{ incrementVariable }}
 
-See also the [IncrementTest2](IncrementTest2.md) page which uses the identical variable name.
+See also the [IncrementTest2](IncrementTest2) page which uses the identical variable name.
