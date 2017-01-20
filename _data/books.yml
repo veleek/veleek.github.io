@@ -2,7 +2,7 @@
   GoodReadsId: 10818853
   Completed: true
   Ids: 
-    - 16
+    - 16 # Genre: Erotic 
     - 19
     - 23
     - 25
@@ -11,10 +11,9 @@
     - 34
     - 39
     - 42
-    - 45
+    - 45 # First book in a series
     - 48
     - 52
-  Note: Publisher is Penguin
   
 - Title: Catching Fire
   GoodReadsId: 6148028
@@ -32,14 +31,23 @@
   
 - Title: Mocking Jay
   GoodReadsId: 7260188
-  Completed: false
+  Completed: true
   Ids:
-  Note: Book two in the Hunger Games series
+    - 10
+    - 19
+    - 23
+    - 25
+    - 26
+    - 33
+    - 46 # Finish a series
+  Note: Book three in the Hunger Games series
   
 - Title: Are we smart enough to know how smart animals are?
   GoodReadsId: 2653022
   Completed: false
   Ids:
+   - 4 # Non-fiction
+   - 47 # Audiobook
   Note:
   
 - Title: Being Wrong 
