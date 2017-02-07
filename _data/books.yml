@@ -47,6 +47,7 @@
   Completed: false
   Ids:
    - 4 # Non-fiction
+   - 32 # Written by a man
    - 47 # Audiobook
   Note:
   
@@ -56,20 +57,28 @@
   Ids:
   Note: Self Help
 
-- Title: 
+- Title: Our Revolution # A Future to Believe in, by Bernie Sanders
+  GoodReadsId: 30841110
+  Completed: false
+  Ids:
+    - 4
+    - 7 # Politics
+    - 19 
+    - 32 # By a man
+  Note: 
+  
+- Title: The Gene
   GoodReadsId:
   Completed: false
   Ids:
+    - 4
+    - 13 # Health? Debatable.
+    - 19
+    - 43
   Note: 
   
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
-  Note: 
-  
-- Title: 
-  GoodReadsId:
+- Title: But What If We''re Wrong? #: Thinking About the Present As If It Were the Past
+  GoodReadsId: 28796086
   Completed: false
   Ids:
   Note: 
