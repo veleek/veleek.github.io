@@ -6,22 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.github.project_tagline }}</h2>
-      <!--
-      {% unless page.hideRepoLink %}
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% endunless %}-->
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <div class="code">
+        <div class="header">
+          <span class="variable">$</span><span class="variable-name">b</span> = 
+          <span class="function">New-Object</span>
+          <span class="class">[Developer]</span>
+          <span class="string">"Ben"</span>, 
+          <span class="string"><a href="mailto:veleek@gmail.com">"veleek@gmail.com"</a> </span>
+        </div>
+        <div>
+          <span class="variable">$</span><span class="variable-name">b</span> | <span class="function">Add-Job</span>
+          -Company <span class="string">"Microsoft"</span>
+          -Org <span class="string">"Xbox Live"</span>
+          <!---Location <span class="variable">(</span><span class="function">Get-Location</span> <span class="string">"Seattle, WA"</span><span class="variable">)</span>-->
+        </div>
+
+        <div>
+          <span class="variable">$</span><span class="variable-name">b</span> | <span class="function">Get-Networks</span>
+          <a href="http://github.com/veleek">-GitHub</a>
+          <a href="http://twitter.com/veleek">-Twitter</a>
+          <a href="http://facebook.com/veleek">-Facebook</a>
+          <span class="cursor">_</span>
+       </div>
+      </div>
     </section>
 
     <section class="main-content">

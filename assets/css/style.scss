@@ -1,0 +1,62 @@
+---
+---
+
+@import "{{ site.theme }}";
+//@import "main.css";
+
+.code {
+    font-family: 'Source Code Pro', monospace;
+    color: #D4D4D4;
+    max-width: 64rem;
+    padding: 0rem 0rem 0rem 0rem;
+    margin: 0 auto;
+
+    .header {
+       font-size: 1.5em; 
+    }
+    
+
+     a {
+        color: #D4D4D4;
+        text-decoration: underline;
+    }
+
+    .variable {
+        color: #569CD6
+    }
+
+    .variable-name, .class {
+        color: #9CDCFE
+    }
+
+    .function {
+        color: #DCDCAA
+    }
+
+    .string {
+        color: #CE9178
+    }
+
+    .string a {
+        color: #CE9178;
+        text-decoration: underline;
+    }
+
+    .cursor {
+        animation: blinker 1s linear infinite;
+    }
+
+    @keyframes blinker {  
+        0% { opacity: 1; }
+        60% { opacity: 1; }
+        80% { opacity: 0; }
+        100% { opacity: 0; }
+    }
+}
+
+.page-header {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 20px 50px;
+  text-align: left;
+}

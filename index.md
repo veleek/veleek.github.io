@@ -6,8 +6,11 @@ description: Stuff
 
 # Projects
 
-* [Dominion Picker](/DominionPicker)
-* [Plaid.NET](https://github.com/veleek/plaid-net)
+* [Today I Learned](https://github.com/veleek/til) - A "daily" record of random programming related tips and tricks.
+* [Dominion Picker](/DominionPicker) - A Dominion Card Randomizer for Windows Phone.
+* [Plaid.NET](https://github.com/veleek/plaid-net) - Simple C# based API for the [Plaid API](http://www.plaid.com).
+* [Turtle#](https://github.com/veleek/TurtleSharp) - A basic Turtle Graphics implementation for C#
+* [CollapseEverythingElse](https://github.com/veleek/CollapseEverythingElse) - A Visual Studio extension that collapses everything except what you're currently looking at.
 
 # Personal 
 
