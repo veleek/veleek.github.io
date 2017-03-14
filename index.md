@@ -12,6 +12,11 @@ description: Stuff
 * [Turtle#](https://github.com/veleek/TurtleSharp) - A basic Turtle Graphics implementation for C#
 * [CollapseEverythingElse](https://github.com/veleek/CollapseEverythingElse) - A Visual Studio extension that collapses everything except what you're currently looking at.
 
+# Professional
+
+* [Xbox Live C# SDK](https://github.com/Microsoft/xbox-live-api-csharp)
+* [Xbox Live Unity Plugin](https://github.com/Microsoft/xbox-live-unity-plugin)
+
 # Personal 
 
 ## 2017 Reading Challenge
