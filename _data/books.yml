@@ -69,10 +69,10 @@
   
 - Title: The Gene
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
     - 4
-    - 13 # Health? Debatable.
+    - 13
     - 19
     - 43
   Note: 
@@ -83,7 +83,7 @@
   Ids:
   Note: 
   
-- Title: 
+- Title: The Help
   GoodReadsId:
   Completed: false
   Ids:
