@@ -85,14 +85,26 @@
   
 - Title: The Help
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 5
+    - 19
+    - 22
+    - 25
+    - 28
+    - 33
+    - 39
   Note: 
   
-- Title: 
+- Title: Bit Rot 
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 19
+    - 22
+    - 31
+    - 41
+    - 49
   Note: 
   
 - Title: 
