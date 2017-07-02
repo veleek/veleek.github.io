@@ -13,7 +13,6 @@
     - 42
     - 45 # First book in a series
     - 48
-    - 52
   
 - Title: Catching Fire
   GoodReadsId: 6148028
@@ -26,7 +25,6 @@
     - 26
     - 33
     - 48
-    - 52
   Note: Book two in the Hunger Games series
   
 - Title: Mocking Jay
@@ -79,9 +77,14 @@
   
 - Title: But What If We''re Wrong? #: Thinking About the Present As If It Were the Past
   GoodReadsId: 28796086
-  Completed: false
+  Completed: true
   Ids:
-  Note: 
+    - 4
+    - 5
+    - 19
+    - 23
+    - 27
+  Note: Used library thing for "less than 100 ratings".
   
 - Title: The Help
   GoodReadsId:
@@ -111,23 +114,34 @@
   GoodReadsId:
   Completed: true
   Ids:
+    - 8
+    - 9
     - 15
     - 33
     - 41
     - 48
   Note: 
   
-- Title: 
+- Title: The Woman in Cabin 10
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 8
+    - 9
+    - 22
+    - 36
+    - 40
+    - 42
+    - 48
   Note: 
   
-- Title: 
+- Title: The Poisonwood Bible
   GoodReadsId:
   Completed: false
   Ids:
-  Note: 
+    - 36
+    - 44
+  Note: I estimated that this book has around 230,000 words.  That's close enough to 'epic' for me.
   
 - Title: 
   GoodReadsId:
