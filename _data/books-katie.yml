@@ -5,6 +5,7 @@
     - 6
     - 19
     - 33
+    - 52
   Note:
   
 - Title: Why Not Me?
@@ -59,8 +60,89 @@
      - 49
   Note: Very much enjoyed.
 
-- Title: The life she want's
+- Title: The life she wants
+  GoodReadsId:
+  Completed: true
+  Ids:
+    - 15
+    - 19
+    - 33
+    - 34
+    - 42
+  Note:
+  
+- Title: The Grownup
+  GoodReadsId:
+  Completed: true
+  Ids:
+    - 8
+    - 9
+    - 15
+    - 33
+    - 41
+    - 48
+  Note: 
+  
+- Title: The Woman in Cabin 10
+  GoodReadsId:
+  Completed: true
+  Ids:
+    - 8
+    - 9
+    - 22
+    - 36
+    - 40
+    - 42
+    - 48
+  Note: 
+  
+- Title: Hidden Figures 
   GoodReadsId:
   Completed: false
   Ids:
-  Note:
+    - 4
+    - 5
+    - 6
+    - 19
+    - 25
+    - 26
+    - 28
+    - 33
+    - 39
+  Note: 
+
+- Title: The Nest
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
+
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
+
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
+
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
+
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
+
+- Title: 
+  GoodReadsId:
+  Completed: false
+  Ids:
+  Note: 
