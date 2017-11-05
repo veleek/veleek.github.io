@@ -138,21 +138,25 @@
   
 - Title: The Poisonwood Bible
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 5
     - 36
     - 44
   Note: I estimated that this book has around 230,000 words.  That's close enough to 'epic' for me.
   
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
+- Title: The Clan of the Cave Bear
+  GoodReadsId: 1295
+  Completed: true
+  Ids: 
+    - 5
+    - 37
   Note: 
   
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
+- Title: The Omnivore's Dillemma
+  GoodReadsId: 3109
+  Completed: true
+  Ids: 
+    - 35
   Note: 
   
