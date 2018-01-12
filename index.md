@@ -28,3 +28,8 @@ I like building .NET client APIs for new services so that I can try out stuff in
 ## 2017 Reading Challenge
 * [Ben's Progress](ReadingChallenge) - Tracking my reading challenge progress for the year while learning Jekyll, Liquid, and GitHub pages at the same time.
 * [Katie's Progress](katie-reading-challenge) - Also see Katie's progress.
+
+## Machine Configuration
+* [My Gists](https://gist.github.com/veleek)
+  * [Boxstarter Script for Home](https://gist.github.com/veleek/7ca7dde2a8a516153b873d4791d67e3f)
+  * [Boxstarter Script for Work](https://gist.github.com/veleek/aeb819d9488676620aa1d2014f6991b0)
