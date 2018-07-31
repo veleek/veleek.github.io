@@ -13,7 +13,6 @@
     - 42
     - 45 # First book in a series
     - 48
-    - 52
   
 - Title: Catching Fire
   GoodReadsId: 6148028
@@ -26,7 +25,6 @@
     - 26
     - 33
     - 48
-    - 52
   Note: Book two in the Hunger Games series
   
 - Title: Mocking Jay
@@ -69,59 +67,95 @@
   
 - Title: The Gene
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
     - 4
-    - 13 # Health? Debatable.
+    - 13
     - 19
     - 43
   Note: 
   
 - Title: But What If We''re Wrong? #: Thinking About the Present As If It Were the Past
   GoodReadsId: 28796086
-  Completed: false
+  Completed: true
   Ids:
+    - 4
+    - 5
+    - 19
+    - 23
+    - 27
+  Note: Used library thing for "less than 100 ratings".
+  
+- Title: The Help
+  GoodReadsId:
+  Completed: true
+  Ids:
+    - 5
+    - 19
+    - 22
+    - 25
+    - 28
+    - 33
+    - 39
   Note: 
   
-- Title: 
+- Title: Bit Rot 
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 19
+    - 22
+    - 31
+    - 41
+    - 49
   Note: 
   
-- Title: 
+- Title: The Grownup
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 8
+    - 9
+    - 15
+    - 33
+    - 41
+    - 48
   Note: 
   
-- Title: 
+- Title: The Woman in Cabin 10
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 8
+    - 9
+    - 22
+    - 36
+    - 40
+    - 42
+    - 48
   Note: 
   
-- Title: 
+- Title: The Poisonwood Bible
   GoodReadsId:
-  Completed: false
+  Completed: true
   Ids:
+    - 5
+    - 36
+    - 44
+  Note: I estimated that this book has around 230,000 words.  That's close enough to 'epic' for me.
+  
+- Title: The Clan of the Cave Bear
+  GoodReadsId: 1295
+  Completed: true
+  Ids: 
+    - 5
+    - 37
   Note: 
   
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
-  Note: 
-  
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
-  Note: 
-  
-- Title: 
-  GoodReadsId:
-  Completed: false
-  Ids:
+- Title: The Omnivore's Dillemma
+  GoodReadsId: 3109
+  Completed: true
+  Ids: 
+    - 35
   Note: 
   
