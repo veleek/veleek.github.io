@@ -37,6 +37,14 @@
         color: #CE9178
     }
 
+    .string::after {
+        content: "\""
+    }
+
+    .string::before {
+        content: "\""
+    }
+
     .string a {
         color: #CE9178;
         text-decoration: underline;
